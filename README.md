@@ -1,4 +1,4 @@
-# WWDC2021 Submission: Kayos
+# WWDC2021 Submission: Kayos [Accepted]
 ### *After all, there’s a “Kay” when you say "chaos"* 
 
 ![Kay](https://github.com/carolinevianab/WWDC2021-Kayos/blob/main/Kay.png)
